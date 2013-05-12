@@ -5,7 +5,7 @@
     "audio",
     "sound"
   ],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
   "license": "MIT",
   "homepage": "https://github.com/xdissent/node-resampler",
