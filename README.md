@@ -3,6 +3,8 @@ node-resampler
 
 PCM audio sample rate conversion for Node.js
 
+[![NPM version](https://badge.fury.io/js/resampler.png)](http://badge.fury.io/js/resampler)
+
 
 Requirements
 ------------
